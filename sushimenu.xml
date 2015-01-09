@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<menu>
+	<apps description="Light bites and snacky-snacks.">
+		<!--<description>Light bites and snacky-snacks.</description>-->	
+
+		<item>
+			<name>Spice &amp; Rice Wraps</name>
+			<cost>$6.95</cost>
+		</item>
+
+		<item>
+			<name>Shumai</name>
+			<cost>$6.25</cost>
+		</item>
+
+		<item>
+			<name>Shrimp Mermaid</name>
+			<cost>$4.95</cost>
+		</item>
+
+		<item>
+			<name>Royal Triangle</name>
+			<cost>$4.95</cost>
+		</item>
+
+		<item>
+			<name>Gyoza</name>
+			<cost>$4.95</cost>
+		</item>
+
+		<item>
+			<name>Thai Roll</name>
+			<cost>$4.95</cost>
+		</item>
+
+		<item>
+			<name>Satay</name>
+			<cost>$5.95</cost>	
+		</item>
+
+		<item>
+			<name>Fresh Roll</name>
+			<cost>$5.95</cost>
+		</item>
+		
+		<item>
+			<name>Crispy Sushi</name>
+			<cost>$7.95</cost>
+		</item>
+
+		<item>
+			<name>Seafood Pancake</name>
+			<cost>$7.50</cost>
+		</item>
+
+		<item>
+			<name>Vegetable Pancake</name>
+			<cost>$6.50</cost>
+		</item>
+
+		<item>
+			<name>Vegetables Tempura</name>
+			<cost>$5.95</cost>
+		</item>
+
+		<item>
+			<name>Tofu Triangle</name>
+			<cost>$4.95</cost>
+		</item>
+
+		<item>
+			<name>Crab Nuggets</name>
+			<cost>$5.95</cost>
+		</item>
+
+		<item>
+			<name>Veggie Dumpling</name>
+			<cost>$4.95</cost>
+		</item>
+
+		<item>
+			<name>Edamame</name>
+			<cost>$4.95</cost>
+		</item>
+
+		<item>
+			<name>Mussel in the Pot</name>
+			<cost>$6.95</cost>
+		</item>
+
+		<item>
+			<name>Appetizer Sampler A</name>
+			<cost>$7.95</cost>
+		</item>
+
+		<item>
+			<name>Appetizer Sampler B</name>
+			<cost>$10.95</cost>
+		</item>
+
+	</apps>
+	
+	<soup description="Our hot soups are sure to comfort and delight!">
+		<!--<description>Our hot soups are sure to comfort and delight!</description>-->	
+
+		<item>
+		<name>Miso Soup</name>
+		<cost>$2.50</cost>
+		</item>
+
+		<item>
+		<name>Spicy Tom Yum Soup</name>
+		<cost>$3.50</cost>
+		</item>
+
+		<item>
+		<name>Tom Kar Soup</name>
+		<cost>$3.50</cost>
+		</item>
+
+		<item>
+		<name>Shrimp Wonton Soup</name>
+		<cost>$3.50</cost>
+		</item>
+
+		<item>
+		<name>Spicy Tom Yum Taley Soup</name>
+		<cost>$3.95</cost>
+		</item>
+
+		<item>
+		<name>Silken Tofu Soup</name>
+		<cost>$3.50</cost>				
+		</item>
+
+	</soup>
+	
+	<salad description="Healthy salads made with the freshest possible ingredients.">
+		<!--<description>Healthy salads made with the freshest possible ingredients.</description>	-->
+
+		<item>
+		<name>Spicy Som Tum Salad</name>
+		<cost>$5.95</cost>
+		</item>
+
+		<item>
+		<name>Spicy Sashimi Salad</name>
+		<cost>$9.95</cost>
+		</item>
+
+		<item>
+		<name>Avocado Salad</name>
+		<cost>$6.95</cost>
+		</item>
+
+		<item>
+		<name>Spicy Yum Na Salad</name>
+		<cost>$9.95</cost>
+		</item>
+
+		<item>
+		<name>Spicy Lab Gai Salad</name>
+		<cost>$6.95</cost>		
+		</item>
+
+		<item>
+		<name>Seaweed Salad</name>
+		<cost>$4.95</cost>
+		</item>
+
+		<item>
+		<name>Fresh Garden Salad</name>
+		<cost>$4.95</cost>
+		</item>
+
+	</salad>
+	
+	<nigiri description="Sliced fish, over rice. 2 pieces per order.">
+		<!--<description>Sliced fish, over rice. 2 pieces per order.</description>-->	
+		
+
+		<item>
+		<name>Tamago Sushi</name>
+		<cost>$2.95</cost>
+		</item>
+
+		<item>
+		<name>Kanikama Sushi</name>
+		<cost>$2.95</cost>
+		</item>
+
+		<item>
+		<name>Saba Sushi</name>
+		<cost>$3.75</cost>
+		</item>
+
+		<item>
+		<name>Ebi Sushi</name>
+		<cost>$3.95</cost>
+		</item>
+
+		<item>
+		<name>Tako Sushi</name>
+		<cost>$3.95</cost>
+		</item>
+
+		<item>
+		<name>Ika Sushi</name>
+		<cost>$3.95</cost>
+		</item>
+
+		<item>
+		<name>Hirame Sushi</name>
+		<cost>$3.95</cost>
+		</item>
+
+		<item>
+		<name>Sake Sushi</name>
+		<cost>$3.95</cost>
+		</item>
+
+		<item>
+		<name>Amaebi Sushi</name>
+		<cost>$3.95</cost>
+		</item>
+
+		<item>
+		<name>Smoked Salmon Sushi</name>
+		<cost>$4.25</cost>
+		</item>
+
+		<item>
+		<name>Suzuki Sushi</name>
+		<cost>$3.95</cost>
+		</item>
+		
+		<item>
+		<name>Magura Sushi</name>
+		<cost>$3.95</cost>
+		</item>
+
+		<item>
+		<name>Hamachi Sushi</name>
+		<cost>$4.25</cost>
+		</item>
+
+		<item>
+		<name>Hotategai Sushi</name>
+		<cost>$4.50</cost>
+		</item>
+
+		<item>
+		<name>Hokkigai Sushi</name>
+		<cost>$4.00</cost>
+		</item>
+		
+		<item>
+		<name>Unagi Sushi</name>
+		<cost>$4.25</cost>		
+		</item>
+
+		<item>
+		<name>Tobiko Sushi</name>
+		<cost>$3.95</cost>		
+		</item>
+
+		<item>
+		<name>Ikura Sushi</name>
+		<cost>$4.00</cost>
+		</item>
+		
+		<item>
+		<name>Uni Sushi</name>
+		<cost>$5.75</cost>	
+		</item>
+
+	</nigiri>
+
+	<sashimi description="Sliced fish, no rice. 3 pieces per order.">
+		<!--<description>Sliced fish, no rice. 3 pieces per order.</description>-->	
+		
+		<item>
+		<name>Tamago Sashimi</name>
+		<cost>$4.70</cost>
+		</item>
+
+		<item>
+		<name>Kanikama Sashimi</name>
+		<cost>$4.75</cost>
+		</item>
+
+		<item>
+		<name>Saba Sashimi</name>
+		<cost>$5.50</cost>
+		</item>
+
+		<item>
+		<name>Ebi Sashimi</name>
+		<cost>$5.70</cost>
+		</item>
+
+		<item>
+		<name>Tako Sashimi</name>
+		<cost>$5.70</cost>
+		</item>
+
+		<item>
+		<name>Ika Sashimi</name>
+		<cost>$5.70</cost>
+		</item>
+
+		<item>
+		<name>Hirame Sashimi</name>
+		<cost>$5.70</cost>
+		</item>
+
+		<item>
+		<name>Sake Sashimi</name>
+		<cost>$5.70</cost>
+		</item>
+
+		<item>
+		<name>Amaebi Sashimi</name>
+		<cost>$5.70</cost>
+		</item>
+
+		<item>
+		<name>Smoked Salmon Sashimi</name>
+		<cost>$6.00</cost>
+		</item>
+
+		<item>
+		<name>Suzuki Sashimi</name>
+		<cost>$5.70</cost>
+		</item>
+
+		<item>
+		<name>Maguro Sashimi</name>
+		<cost>$5.70</cost>
+		</item>
+
+		<item>
+		<name>Hamachi Sashimi</name>
+		<cost>$6.00</cost>
+		</item>
+
+		<item>
+		<name>Hotategai Sashimi</name>
+		<cost>$6.25</cost>
+		</item>
+
+		<item>
+		<name>Hokkigai Sashimi</name>
+		<cost>$5.75</cost>
+		</item>
+
+		<item>
+		<name>Unagi Sashimi</name>
+		<cost>$6.00</cost>		
+		</item>
+
+		<item>
+		<name>Tobiko Sashimi</name>
+		<cost>$5.70</cost>		
+		</item>
+
+		<item>
+		<name>Ikura Sashimi</name>
+		<cost>$5.75</cost>
+		</item>
+
+		<item>
+		<name>Uni Sashimi</name>
+		<cost>$7.50</cost>
+		</item>
+
+	</sashimi>
+
+	<makimono description="Sliced sushi rolls. 4 to 6 pieces per order.">
+		<!-- <description>Sliced sushi rolls. 4 to 6 pieces per order.</description> -->	
+		
+		<item>
+		<name>Kappa Maki</name>
+		<cost>$3.50</cost>
+		</item>
+
+		<item>
+		<name>Oshinko Maki</name>
+		<cost>$3.50</cost>
+		</item>		
+
+		<item>
+		<name>Avocado Maki</name>
+		<cost>$3.50</cost>
+		</item>
+
+		<item>
+		<name>Umeshiso Maki</name>
+		<cost>$3.75</cost>
+		</item>		
+
+		<item>
+		<name>Natto Maki</name>
+		<cost>$3.75</cost>
+		</item>
+
+		<item>
+		<name>California Maki</name>
+		<cost>$4.50</cost>
+		</item>
+
+		<item>
+		<name>Sake Maki</name>
+		<cost>$4.50</cost>
+		</item>		
+
+		<item>
+		<name>Tekka Maki</name>
+		<cost>$4.50</cost>
+		</item>
+
+		<item>
+		<name>Negihama Maki</name>
+		<cost>$4.95</cost>
+		</item>
+
+		<item>
+		<name>Yasai Maki</name>
+		<cost>$5.50</cost>
+		</item>
+
+		<item>
+		<name>Hiro-Maki</name>
+		<cost>$5.50</cost>
+		</item>
+
+		<item>
+		<name>Una-Ayo Maki</name>
+		<cost>$5.50</cost>
+		</item>
+
+		<item>
+		<name>Ishikari Maki</name>
+		<cost>$5.50</cost>
+		</item>
+
+		<item>
+		<name>Spicy Tuna Maki</name>
+		<cost>$5.50</cost>
+		</item>		
+
+		<item>
+		<name>Unakyu Maki</name>
+		<cost>$5.50</cost>
+		</item>
+
+		<item>
+		<name>Spicy Maki</name>
+		<cost>$5.50</cost>
+		</item>	
+
+		<item>
+		<name>Futo Maki</name>
+		<cost>$5.50</cost>
+		</item>
+
+		<item>
+		<name>Rainbow Maki</name>
+		<cost>$10.50</cost>
+		</item>					
+
+		<item>
+		<name>Alaskan Maki</name>
+		<cost>$5.50</cost>
+		</item>
+
+		<item>
+		<name>Philadelphia Maki</name>
+		<cost>$5.50</cost>
+		</item>
+
+		<item>
+		<name>Tempura Maki</name>
+		<cost>$6.50</cost>
+		</item>
+
+		<item>
+		<name>Scorpion Maki</name>
+		<cost>$9.95</cost>
+		</item>
+
+		<item>
+		<name>Caterpillar Maki</name>
+		<cost>$9.50</cost>
+		</item>		
+
+		<item>
+		<name>Spider Maki</name>
+		<cost>$9.95</cost>
+		</item>		
+
+	</makimono>
+
+</menu>

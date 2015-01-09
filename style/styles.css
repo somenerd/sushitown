@@ -1,0 +1,133 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{background-color:#99FF66;
+	margin:0;
+	padding:0;
+	}
+
+
+#container {background-color:#99FF66;
+			width:100%;
+			}
+
+
+header {/*background-color:#99FF66;
+		width:100%;*/
+		background-image:url(../img/bg_neutral.jpg);
+		}	
+
+
+header h1 img {
+	display:block;
+	width: 33%;
+	}
+
+h1 {font-family:"Franklin Gothic Demi", "Georgia", "Times New Roman", Times, serif;
+	text-align: left;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	}
+
+h2 {font-family:"Franklin Gothic Demi", "Georgia", "Times New Roman", Times, serif;
+	text-align: left;
+	padding-bottom: 10px;
+	}
+
+
+
+
+#main {background-color:#99FF66;
+		/*width:95%;*/
+		}
+
+#main p { font-family:"Franklin Gothic Demi", "Georgia", "Times New Roman", Times, serif;
+		}
+		
+
+			
+.leftcolumn {width: 12%;
+			float: left;
+			display: block;
+			list-style: none;
+			padding-top: 15px;
+			padding-bottom: 60px;
+			}
+
+
+.leftcolumn nav{
+	background-color: transparent;
+	font-family:"Franklin Gothic Demi", "Georgia", "Times New Roman", Times, serif;
+	float: left;
+	display: block;
+	list-style: none;
+	}
+
+.leftcolumn nav ul{ 
+	list-style: none;
+	float: left;
+	display: block;
+	}
+
+.leftcolumn nav ul li{
+
+	 
+	 font-size:1.0em;
+	 float: left;
+	 list-style: none;
+	 /*margin-top: 10px;
+	 margin-bottom: 10px;*/
+	}
+
+
+
+.leftcolumn nav ul li img {
+	width:100%;
+	float:left;
+	display:block;
+	padding:5px;
+	}
+
+
+.rightcolumn {float: left;
+				padding-left: 5%;
+				width: 80%;
+				display:inline-block;
+				}
+
+.rightcolumn p {
+	padding-bottom:20px;
+	text-align: left;
+	font-size:1.1em;
+	font-family: "Franklin Gothic Demi", "Georgia", "Times New Roman", Times, serif;
+	background-color: inherit;
+	}
+
+h3 {
+	padding-top: 5px;
+	padding-bottom: 10px;
+	font-family: "Franklin Gothic Demi", "Georgia", "Times New Roman", Times, serif;
+	}
+
+ul li {
+	list-style: none;
+	font-family: "Franklin Gothic Demi", "Georgia", "Times New Roman", Times, serif;
+	font-size:1.1em;
+	padding-top: 5px;
+	padding-bottom: 2px;
+	}
+
+		
+.clear{
+	clear: both;
+	}
+
+
+#footer {background-color:#99FF66;
+		width:95%;
+		}
+
+#footer p { font-family:"Franklin Gothic Demi", "Georgia", "Times New Roman", Times, serif;
+		width:95%;
+		}
+
